@@ -22,6 +22,7 @@ I'm a VFX artist with a deep interest in AI and creative technology. I create vi
 
 ### VFX
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![VFX](https://img.shields.io/badge/Visual%20Effects-FF6B6B?style=for-the-badge)
 
 ### AI & Creative Tools
