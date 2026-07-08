@@ -1,85 +1,115 @@
-<h1 align="center">Hi 👋 I'm Bidar</h1>
+# 👋 Hello, I'm bidar!
 
-<h3 align="center">
-VFX Artist • 3D Artist • AI Creator
-</h3>
+<div align="center">
+  
+### VFX Artist | AI Creative Developer
 
-<p align="center">
-Creating cinematic visual effects, motion graphics and interactive experiences.
-</p>
+Creating innovative solutions in Blender, After Effects, and AI tools. I'm passionate about building scripts, workflows, and automation that accelerate production.
 
----
-
-## 🚀 About Me
-
-🎬 VFX Artist specializing in Adobe After Effects
-
-🎨 3D Artist using Blender
-
-🤖 AI-Assisted Creative Workflow Enthusiast
-
-🎮 Currently learning Unity & Game Development
-
-✨ Passionate about combining VFX, AI and real-time graphics.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 About Me
 
-<p align="left">
+I'm a visual effects and 3D artist with a deep interest in AI and automation tools. I love optimizing VFX pipelines and staying at the forefront of innovation. My mission is to bridge the gap between traditional VFX and cutting-edge AI technology.
 
-<img src="https://skillicons.dev/icons?i=blender,unity,cs,git,github,ps,vscode" />
-
-</p>
-
-### Creative Software
-
-- Adobe After Effects
-- Blender
-- Photoshop
-- Unity
-- AI Creative Tools
+📍 **Goal:** Develop automation tools and AI-powered solutions for the VFX/3D industry
 
 ---
 
-## 🌱 Currently Learning
+## 💻 Skills
 
-- Unity Game Development
-- C#
-- Shader Graph
-- Real-Time VFX
-- UEFN
+### VFX & 3D
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-00D9FF?style=for-the-badge)
 
----
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🎯 Current Goals
-
-- 🎮 Build my first commercial indie game
-- ⚡ Improve my Unity skills
-- 🎬 Create high-quality cinematic VFX
-- 🤖 Build AI-powered creative workflows
-
----
-
-## 📂 Featured Projects
-
-🚧 Coming Soon...
-
-- Unity VFX Experiments
-- Blender Projects
-- AI Workflow Tools
-- Game Development Projects
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
 
 ---
 
-## 🌍 Connect with Me
+## 🎬 Projects
 
-🌐 Website: https://bidarvfx.com
+Coming soon... My first projects will be featured here! 🚀
 
-📺 YouTube: https://youtube.com/@Bidarvfx
+<!-- Project templates (fill when ready):
+### [Project Name](repo-link)
+Brief description. Include technologies used.
+
+**Tech Stack:** Python, Blender API, OpenCV
+-->
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidarx&theme=dark&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bidarx&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🌐 Follow Me
+
+Check out my VFX, 3D, and AI projects on social media:
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
+[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🎓 Advanced Blender Python API
+- 🤖 Generative AI Integration in VFX
+- 🎬 Real-time Rendering Techniques
+- ⚡ Performance Optimization
+
+---
+
+## 🎯 Goals
+
+- [ ] Release my first open-source VFX tool
+- [ ] Contribute to the Blender addon ecosystem
+- [ ] Develop AI-powered VFX automation
+- [ ] Collaborate with the VFX community
+
+---
+
+## 💬 Get in Touch
+
+For collaboration, projects, or questions:
+
+https://www.linkedin.com/in/bidarvfx/
+https://www.instagram.com/bidarvfx
+https://www.instagram.com/bidarvfx
+https://youtube.com/@bidarvfx
+https://snapchat.com/add/bidarvfx
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects useful, don't forget to leave a star!
+
+**Happy Coding! 🚀**
+
+</div>
