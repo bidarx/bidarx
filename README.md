@@ -1,10 +1,10 @@
-# 👋 Hello, I'm bidar!
+# 👋 Hello, I'm bidarx!
 
 <div align="center">
   
-### VFX Artist | AI Creative Developer
+### VFX Artist | AI Creative | Vibe Coder
 
-Creating innovative solutions in Blender, After Effects, and AI tools. I'm passionate about building scripts, workflows, and automation that accelerate production.
+Creating visual effects and exploring AI tools. I'm passionate about VFX and love building things through vibe coding. 🎬✨
 
 </div>
 
@@ -12,27 +12,21 @@ Creating innovative solutions in Blender, After Effects, and AI tools. I'm passi
 
 ## 🎨 About Me
 
-I'm a visual effects and 3D artist with a deep interest in AI and automation tools. I love optimizing VFX pipelines and staying at the forefront of innovation. My mission is to bridge the gap between traditional VFX and cutting-edge AI technology.
+I'm a VFX artist with a deep interest in AI and creative technology. I create visual effects content and explore new ways to combine VFX with AI tools. I also enjoy vibe coding — building projects with the help of AI.
 
-📍 **Goal:** Develop automation tools and AI-powered solutions for the VFX/3D industry
+📍 **Goal:** Grow as a VFX artist and build creative AI-powered projects
 
 ---
 
 ## 💻 Skills
 
-### VFX & 3D
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### VFX
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D%20Modeling-00D9FF?style=for-the-badge)
+![VFX](https://img.shields.io/badge/Visual%20Effects-FF6B6B?style=for-the-badge)
 
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### AI & Creative Tools
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-00D9FF?style=for-the-badge)
 
 ---
 
@@ -40,37 +34,17 @@ I'm a visual effects and 3D artist with a deep interest in AI and automation too
 
 Coming soon... My first projects will be featured here! 🚀
 
-<!-- Project templates (fill when ready):
-### [Project Name](repo-link)
-Brief description. Include technologies used.
-
-**Tech Stack:** Python, Blender API, OpenCV
--->
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidarx&theme=dark&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bidarx&layout=compact&theme=dark)
-
-</div>
-
 ---
 
 ## 🌐 Follow Me
 
-Check out my VFX, 3D, and AI projects on social media:
+Check out my VFX and AI content on social media:
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bidarvfx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bidarvfx)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bidarvfx)
 
 </div>
 
@@ -78,19 +52,18 @@ Check out my VFX, 3D, and AI projects on social media:
 
 ## 📚 Currently Learning
 
-- 🎓 Advanced Blender Python API
-- 🤖 Generative AI Integration in VFX
-- 🎬 Real-time Rendering Techniques
-- ⚡ Performance Optimization
+- 🎬 Advanced VFX Techniques
+- 🤖 AI Tools for Creative Work
+- 💻 Vibe Coding & AI-Assisted Development
 
 ---
 
 ## 🎯 Goals
 
-- [ ] Release my first open-source VFX tool
-- [ ] Contribute to the Blender addon ecosystem
-- [ ] Develop AI-powered VFX automation
-- [ ] Collaborate with the VFX community
+- [ ] Publish my first project on GitHub
+- [ ] Combine VFX with AI-powered workflows
+- [ ] Grow my VFX content and community
+- [ ] Build creative tools with vibe coding
 
 ---
 
@@ -98,18 +71,14 @@ Check out my VFX, 3D, and AI projects on social media:
 
 For collaboration, projects, or questions:
 
-https://www.linkedin.com/in/bidarvfx/
-https://www.instagram.com/bidarvfx
-https://www.instagram.com/bidarvfx
-https://youtube.com/@bidarvfx
-https://snapchat.com/add/bidarvfx
+📧 **Email:** [bidarvfx@gmail.com](mailto:bidarvfx@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects useful, don't forget to leave a star!
+### ⭐ If you like my work, don't forget to leave a star!
 
-**Happy Coding! 🚀**
+**Happy Creating! 🚀**
 
 </div>
